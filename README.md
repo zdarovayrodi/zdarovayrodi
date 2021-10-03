@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zdarovayrodi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tg: @zdarovayrodi
+- 🌱 I’m currently learning python/C
+- 📫 How to reach me: tg @zdarovayrodi
 
 <!---
 zdarovayrodi/zdarovayrodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

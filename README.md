@@ -1,2 +1,2 @@
-### 🏎 Misha Saveliev
-ITMO IS 1 year
+### 🏎 Mikhail Saveliev
+ITMO IS 2 year

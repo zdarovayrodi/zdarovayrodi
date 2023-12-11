@@ -1,2 +1,2 @@
-### 🏎 Mikhail Saveliev
-ITMO IS 2 year
+### ♞ Mikhail
+3 year ITMO IS student

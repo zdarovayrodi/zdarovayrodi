@@ -1,2 +1,2 @@
 ### ♞ Mikhail
-3 year ITMO IS student
+4 year ITMO IS student
